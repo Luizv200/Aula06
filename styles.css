@@ -1,26 +1,13 @@
-header{
+body{
 
-   background: linear-gradient(rgb(199, 119, 0),blue);
-
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-
+    background-color: rgba(43, 155, 199, 0.622);
 }
 
-img{
 
-    border-radius: 50px;
 
-}
+h2{
 
-footer{
+background-color: /rgb(40, 157, 97);
+margin: 0px;
 
-    font-weight: bold;
-    background-color: burlywood
-}
 
-section{
-
-background-color: burlywood;
-}
